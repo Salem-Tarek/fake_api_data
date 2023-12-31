@@ -1,0 +1,26 @@
+{
+    "locales": [
+        {
+            "locale": "en",
+            "messages": {
+                "title": "Hello",
+                "name": "Welcome",
+                "profile": {
+                    "title": "Profile",
+                    "desc": "this is Desc"
+                }
+            }
+        },
+        {
+            "locale": "ar",
+            "messages": {
+                "title": "ويلقم",
+                "name": "مرحبا",
+                "profile": {
+                    "title": "بروفايل",
+                    "desc": "هذا وصف"
+                }
+            }
+        }
+    ]
+}
