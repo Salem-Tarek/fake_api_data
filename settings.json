@@ -21,22 +21,20 @@
         },
         "apiBaseUrl": "https://staging0723.gromart.io/api"
     },
-    "footer" :{
-        "data": [
-            {"name": "Our Branches", "link":"/our-branches"},
-            {"name": "About Us", "link":null},
-            {"name": "Layalty", "link":null},
-            {"name": "Careers", "link":null},
-            {"name": "Contact us", "link":null},
-            {"name": "Feedback", "link":null},
-            {"name": "Tips", "link":null},
-            {"name": "Recipes", "link":null},
-            {"name": "News and Events", "link":null},
-            {"name": "FAQ", "link":null},
-            {"name": "Subscribe to WhatsApp", "link":null},
-            {"name": "Terms and Conditions", "link":null}
-        ]
-    },
+    "footer": [
+        {"name": "Our Branches", "link":"/our-branches"},
+        {"name": "About Us", "link":null},
+        {"name": "Layalty", "link":null},
+        {"name": "Careers", "link":null},
+        {"name": "Contact us", "link":null},
+        {"name": "Feedback", "link":null},
+        {"name": "Tips", "link":null},
+        {"name": "Recipes", "link":null},
+        {"name": "News and Events", "link":null},
+        {"name": "FAQ", "link":null},
+        {"name": "Subscribe to WhatsApp", "link":null},
+        {"name": "Terms and Conditions", "link":null}
+    ],
     "languages":{
         "locales":[
             {
