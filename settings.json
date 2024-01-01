@@ -1,13 +1,11 @@
 {
-    "theme": {
-        "colors": {
+    "colors": {
             "--primary": "#EE2E24",
             "--secondary": "#F99B2A",
             "--third": "#FFBB33",
             "--dark-gray": "#2D3135",
             "--gray": "#EAE7E6",
             "--light-gray": "#EEEEEE"
-        }
     },
     "settings": {
         "title": "Circle K",
