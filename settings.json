@@ -6,7 +6,7 @@
             "--third": "#FFBB33",
             "--dark-gray": "#2D3135",
             "--gray": "#EAE7E6",
-            "--light-gray": "#EEEEEE",
+            "--light-gray": "#EEEEEE"
         }
     },
     "settings": {
